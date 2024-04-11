@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anjaya02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anjaya02" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/anjaya.induwara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anjaya.induwara1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anjaya02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anjaya02" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anjaya.induwara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anjaya.induwara1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anjaya_induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anjaya_induwara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://www.youtube.com/@anjaya02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@anjaya02" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@anjaya02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@anjaya02" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anjayainduwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anjayainduwara" height="30" width="40" /></a>
 </p>
 
