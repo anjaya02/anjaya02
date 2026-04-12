@@ -1,0 +1,199 @@
+<svg width="850" height="230" viewBox="0 0 850 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&amp;display=swap');
+    </style>
+
+    <!-- Animated gradient -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0e14"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Scanline pattern -->
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#21c55d" stroke-width="0.15" opacity="0.15"/>
+    </pattern>
+
+    <!-- Circuit pattern -->
+    <pattern id="circuit" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 30 15 M 30 45 L 30 60 M 0 30 L 15 30 M 45 30 L 60 30" stroke="#21c55d" stroke-width="0.3" opacity="0.08" fill="none"/>
+      <circle cx="30" cy="30" r="2" fill="#21c55d" opacity="0.06"/>
+      <circle cx="30" cy="15" r="1" fill="#21c55d" opacity="0.04"/>
+      <circle cx="30" cy="45" r="1" fill="#21c55d" opacity="0.04"/>
+      <circle cx="15" cy="30" r="1" fill="#21c55d" opacity="0.04"/>
+      <circle cx="45" cy="30" r="1" fill="#21c55d" opacity="0.04"/>
+    </pattern>
+
+    <!-- Matrix rain characters -->
+    <pattern id="matrix" width="20" height="200" patternUnits="userSpaceOnUse">
+      <text x="3" y="20" font-family="monospace" font-size="10" fill="#21c55d" opacity="0.04">0</text>
+      <text x="3" y="50" font-family="monospace" font-size="10" fill="#21c55d" opacity="0.03">1</text>
+      <text x="3" y="80" font-family="monospace" font-size="10" fill="#21c55d" opacity="0.05">ア</text>
+      <text x="3" y="110" font-family="monospace" font-size="10" fill="#21c55d" opacity="0.03">カ</text>
+      <text x="3" y="140" font-family="monospace" font-size="10" fill="#21c55d" opacity="0.04">0</text>
+      <text x="3" y="170" font-family="monospace" font-size="10" fill="#21c55d" opacity="0.02">1</text>
+    </pattern>
+
+    <!-- Animated dash -->
+    <style>
+      @keyframes dash {
+        to { stroke-dashoffset: -1000; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      @keyframes slideIn {
+        from { transform: translateX(-10px); opacity: 0; }
+        to { transform: translateX(0); opacity: 1; }
+      }
+      @keyframes glowPulse {
+        0%, 100% { filter: drop-shadow(0 0 2px #21c55d); }
+        50% { filter: drop-shadow(0 0 8px #21c55d); }
+      }
+      .cursor { animation: blink 1s step-end infinite; }
+      .flow-line { 
+        stroke-dasharray: 8 12;
+        animation: dash 20s linear infinite;
+      }
+      .pulse-dot { animation: pulse 2s ease-in-out infinite; }
+      .glow-text { animation: glowPulse 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="230" rx="12" fill="url(#headerGrad)"/>
+  <rect width="850" height="230" rx="12" fill="url(#circuit)"/>
+  <rect width="850" height="230" rx="12" fill="url(#matrix)"/>
+  <rect width="850" height="230" rx="12" fill="url(#scanlines)"/>
+
+  <!-- Border with gradient -->
+  <rect x="0.5" y="0.5" width="849" height="229" rx="12" fill="none" stroke="#21c55d" stroke-width="1" opacity="0.2"/>
+  
+  <!-- Corner accents -->
+  <path d="M 0 20 L 0 0 L 20 0" fill="none" stroke="#21c55d" stroke-width="2" opacity="0.5" transform="translate(8,8)"/>
+  <path d="M 0 -20 L 0 0 L 20 0" fill="none" stroke="#21c55d" stroke-width="2" opacity="0.5" transform="translate(8,222)"/>
+  <path d="M 0 0 L -20 0 M 0 0 L 0 -20" fill="none" stroke="#21c55d" stroke-width="2" opacity="0.5" transform="translate(842,222)"/>
+  <path d="M 0 0 L -20 0 M 0 0 L 0 20" fill="none" stroke="#21c55d" stroke-width="2" opacity="0.5" transform="translate(842,8)"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="50" width="3" height="130" rx="1.5" fill="#21c55d" opacity="0.6"/>
+
+  <!-- Flowing circuit lines -->
+  <line x1="30" y1="230" x2="30" y2="180" class="flow-line" stroke="#21c55d" stroke-width="0.5" opacity="0.15"/>
+  <line x1="820" y1="0" x2="820" y2="50" class="flow-line" stroke="#21c55d" stroke-width="0.5" opacity="0.15"/>
+  <line x1="100" y1="0" x2="100" y2="30" class="flow-line" stroke="#58a6ff" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Terminal window chrome -->
+  <rect x="28" y="18" width="794" height="194" rx="8" fill="#0d1117" opacity="0.5" stroke="#21262d" stroke-width="1"/>
+  
+  <!-- Window buttons -->
+  <circle cx="50" cy="34" r="5" fill="#ff5f57" opacity="0.8"/>
+  <circle cx="68" cy="34" r="5" fill="#febc2e" opacity="0.8"/>
+  <circle cx="86" cy="34" r="5" fill="#28c840" opacity="0.8"/>
+  
+  <!-- Window title -->
+  <text x="425" y="38" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e" opacity="0.7">anjaya@arch ~ </text>
+
+  <!-- Divider under chrome -->
+  <line x1="28" y1="48" x2="822" y2="48" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Terminal prompt line 1 -->
+  <text x="48" y="72" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#21c55d" filter="url(#softGlow)" opacity="0.9">
+    <tspan fill="#7c3aed">❯</tspan>
+    <tspan fill="#8b949e"> cat </tspan>
+    <tspan fill="#58a6ff">identity.json</tspan>
+  </text>
+
+  <!-- JSON output - Name -->
+  <text x="48" y="96" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#8b949e" opacity="0.5">{</text>
+  <text x="64" y="114" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12">
+    <tspan fill="#79c0ff">"name"</tspan>
+    <tspan fill="#8b949e">: </tspan>
+    <tspan fill="#a5d6ff">"Anjaya Induwara"</tspan>
+    <tspan fill="#8b949e">,</tspan>
+  </text>
+  <text x="64" y="132" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12">
+    <tspan fill="#79c0ff">"role"</tspan>
+    <tspan fill="#8b949e">: </tspan>
+    <tspan fill="#a5d6ff">"Full-Stack Engineer &amp; AI Builder"</tspan>
+    <tspan fill="#8b949e">,</tspan>
+  </text>
+  <text x="64" y="150" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12">
+    <tspan fill="#79c0ff">"focus"</tspan>
+    <tspan fill="#8b949e">: [</tspan>
+    <tspan fill="#a5d6ff">"AI Systems"</tspan>
+    <tspan fill="#8b949e">, </tspan>
+    <tspan fill="#a5d6ff">"Backend Eng"</tspan>
+    <tspan fill="#8b949e">, </tspan>
+    <tspan fill="#a5d6ff">"Comp Geometry"</tspan>
+    <tspan fill="#8b949e">],</tspan>
+  </text>
+  <text x="64" y="168" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12">
+    <tspan fill="#79c0ff">"location"</tspan>
+    <tspan fill="#8b949e">: </tspan>
+    <tspan fill="#a5d6ff">"Colombo, Sri Lanka 🇱🇰"</tspan>
+    <tspan fill="#8b949e">,</tspan>
+  </text>
+  <text x="64" y="186" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12">
+    <tspan fill="#79c0ff">"status"</tspan>
+    <tspan fill="#8b949e">: </tspan>
+    <tspan fill="#21c55d" filter="url(#softGlow)">"building the future..."</tspan>
+  </text>
+  <text x="48" y="204" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#8b949e" opacity="0.5">}</text>
+
+  <!-- Right side decoration -->
+  <!-- Hexagon grid decoration -->
+  <g transform="translate(680, 70)" opacity="0.12">
+    <polygon points="20,0 40,12 40,36 20,48 0,36 0,12" fill="none" stroke="#21c55d" stroke-width="1"/>
+    <polygon points="60,0 80,12 80,36 60,48 40,36 40,12" fill="none" stroke="#21c55d" stroke-width="1"/>
+    <polygon points="40,48 60,60 60,84 40,96 20,84 20,60" fill="none" stroke="#21c55d" stroke-width="1"/>
+    <polygon points="0,48 20,60 20,84 0,96 -20,84 -20,60" fill="none" stroke="#58a6ff" stroke-width="1"/>
+    <polygon points="80,48 100,60 100,84 80,96 60,84 60,60" fill="none" stroke="#21c55d" stroke-width="1"/>
+    <polygon points="60,96 80,108 80,132 60,144 40,132 40,108" fill="none" stroke="#58a6ff" stroke-width="0.8"/>
+    <!-- Filled accent hexagon -->
+    <polygon points="20,0 40,12 40,36 20,48 0,36 0,12" fill="#21c55d" opacity="0.15"/>
+    <polygon points="40,48 60,60 60,84 40,96 20,84 20,60" fill="#58a6ff" opacity="0.1"/>
+  </g>
+
+  <!-- Blinking cursor -->
+  <rect x="366" y="175" width="8" height="14" fill="#21c55d" class="cursor" opacity="0.9"/>
+
+  <!-- Status indicators -->
+  <g transform="translate(650, 195)">
+    <circle cx="0" cy="0" r="3" fill="#21c55d" class="pulse-dot"/>
+    <text x="8" y="4" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#21c55d" opacity="0.6">ONLINE</text>
+    <text x="65" y="4" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#8b949e" opacity="0.4">|</text>
+    <text x="75" y="4" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#8b949e" opacity="0.4">v2.0.26</text>
+  </g>
+
+  <!-- Bottom decorative line -->
+  <line x1="28" y1="218" x2="822" y2="218" stroke="#21262d" stroke-width="0.5" opacity="0.5"/>
+</svg>
