@@ -19,15 +19,6 @@
 
 <br/>
 
-```
- ╭──────────────────────────────────────────────────────────────────────╮
- │                                                                      │
- │   █▀▀ █░█ █▀█ █▀█ █▀▀ █▄░█ ▀█▀   █▀▄▀█ █ █▀ █▀ █ █▀█ █▄░█        │
- │   █▄▄ █▄█ █▀▄ █▀▄ ██▄ █░▀█ ░█░   █░▀░█ █ ▄█ ▄█ █ █▄█ █░▀█        │
- │                                                                      │
- ╰──────────────────────────────────────────────────────────────────────╯
-```
-
 <table>
 <tr>
 <td width="50%">
@@ -57,21 +48,24 @@ class AnjayaInduwara:
 
 ### `> neofetch`
 
-```
-        .--.          anjaya@github
+<!-- NEOFETCH START -->
+```text
+        .--.          anjaya02@github
        |o_o |         ──────────────────
-       |:_/ |         OS: Engineer v2.0.26
-      //   \ \        Uptime: since 2002
-     (|     | )       Shell: python/ts/java
-    /'\_   _/`\       Resolution: 1080p focus
-    \___)=(___/       DE: VSCode
-                      WM: Arch BTW
-  ┌─────────────┐     Terminal: alacritty
-  │ 🔋 caffeine │     CPU: 128-day streak
-  │ ⚡ shipping  │     Memory: unlimited ideas
-  │ 🎯 building │     GPU: rendering dreams
-  └─────────────┘
+       |:_/ |         OS: Engineer v2026.4
+      //   \ \        Uptime: 24 years (since 2002)
+     (|     | )       Shell: Python | TypeScript | Java
+    /'\_   _/`\       Resolution: 1920x1080 @ 60fps
+    \___)=(___/       DE: VS Code + GitHub Copilot
+                      WM: Windows 11
+  ┌─────────────┐     Terminal: Windows Terminal
+  │ 🔋 caffeine │     Role: Software Developer @ SLTMobitel
+  │ ⚡ shipping  │     Task: Building Reputify
+  │ 🎯 building │     CPU: 128-day focus streak
+  └─────────────┘     Memory: Coffee-fueled, never enough RAM
+                      GPU: GPT-4o + HuggingFace
 ```
+<!-- NEOFETCH END -->
 
 </td>
 </tr>
@@ -80,11 +74,10 @@ class AnjayaInduwara:
 ---
 
 <div align="center">
-
-```
-┌─── ⚡ TECH ARSENAL ────────────────────────────────────────────────────┐
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=300&height=30&lines=%E2%9A%A1+TECH+ARSENAL" alt="Tech Arsenal"/>
+<br/><br/>
 </div>
 
 <div align="center">
@@ -126,22 +119,13 @@ class AnjayaInduwara:
 
 </div>
 
-<div align="center">
-
-```
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 <div align="center">
-
-```
-┌─── 📊 SYSTEM METRICS ─────────────────────────────────────────────────┐
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=300&height=30&lines=%F0%9F%93%8A+SYSTEM+METRICS" alt="System Metrics"/>
+<br/><br/>
 </div>
 
 <div align="center">
@@ -150,22 +134,13 @@ class AnjayaInduwara:
   <img src="./streak.svg" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-
-```
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 <div align="center">
-
-```
-┌─── 🐍 CONTRIBUTION GRAPH ─────────────────────────────────────────────┐
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=350&height=30&lines=%F0%9F%90%8D+CONTRIBUTION+GRAPH" alt="Contribution Graph"/>
+<br/><br/>
 </div>
 
 <div align="center">
@@ -176,22 +151,13 @@ class AnjayaInduwara:
   </picture>
 </div>
 
-<div align="center">
-
-```
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 <div align="center">
-
-```
-┌─── 🏗️ DEPLOYED SYSTEMS ───────────────────────────────────────────────┐
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=350&height=30&lines=%F0%9F%8F%97%EF%B8%8F+DEPLOYED+SYSTEMS" alt="Deployed Systems"/>
+<br/><br/>
 </div>
 
 <table>
@@ -207,7 +173,7 @@ class AnjayaInduwara:
 
 ```
 AI-powered reputation management
-SaaS for Sri Lankan SMEs
+SaaS for SMEs
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 → 8 platforms monitored
@@ -233,22 +199,13 @@ Infra:
 </tr>
 </table>
 
-<div align="center">
-
-```
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 <div align="center">
-
-```
-┌─── 🌐 NETWORK INTERFACES ─────────────────────────────────────────────┐
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=350&height=30&lines=%F0%9F%8C%90+NETWORK+INTERFACES" alt="Network Interfaces"/>
+<br/><br/>
 </div>
 
 <div align="center">
@@ -262,29 +219,14 @@ Infra:
 
 </div>
 
-<div align="center">
-
-```
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   "The best way to predict the future is to build it."                   │
-│                                                                          │
-│                    — Based in Colombo, Sri Lanka 🇱🇰                      │
-│                       github.com/anjaya02 · 2026                         │
-│                                                                          │
-╰──────────────────────────────────────────────────────────────────────────╯
-```
-
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=2000&color=3d444d&center=true&vCenter=true&repeat=false&width=500&height=20&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="Quote"/>
+<br/>
+<sub>Based in Colombo, Sri Lanka 🇱🇰 · github.com/anjaya02 · 2026</sub>
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=21c55d&height=80&section=footer&fontSize=0" width="100%"/>
 
 </div>

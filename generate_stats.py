@@ -419,6 +419,57 @@ def make_streak_svg(stats: dict) -> str:
   <text x=\"247\" y=\"138\" text-anchor=\"middle\" font-family=\"'Segoe UI', Ubuntu, sans-serif\" font-size=\"9\" fill=\"#3d444d\">github.com/anjaya02 · {stats['year']}</text>
 </svg>"""
 
+def update_readme(stats: dict) -> None:
+    readme_path = "README.md"
+    try:
+        with open(readme_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except FileNotFoundError:
+        print(f"File {readme_path} not found.")
+        return
+
+    import re
+    from datetime import datetime
+    
+    current_year = datetime.now().year
+    current_month = datetime.now().month
+    
+    # Calculate exact age
+    birth_date = datetime(2002, 2, 25)
+    now = datetime.now()
+    age = now.year - birth_date.year - ((now.month, now.day) < (birth_date.month, birth_date.day))
+    
+    new_neofetch = f"""```text
+        .--.          anjaya02@github
+       |o_o |         ──────────────────
+       |:_/ |         OS: Engineer v{current_year}.{current_month}
+      //   \ \        Uptime: {age} years (since 2002)
+     (|     | )       Shell: Python | TypeScript | Java
+    /'\_   _/`\       Resolution: 1920x1080 @ 60fps
+    \___)=(___/       DE: VS Code + GitHub Copilot
+                      WM: Windows 11
+  ┌─────────────┐     Terminal: Windows Terminal
+  │ 🔋 caffeine │     Role: Software Developer @ SLTMobitel
+  │ ⚡ shipping  │     Task: Building Reputify
+  │ 🎯 building │     CPU: {stats['current_streak']}-day focus streak
+  └─────────────┘     Memory: Coffee-fueled, never enough RAM
+                      GPU: GPT-4o + HuggingFace
+```"""
+
+    pattern = r'(<!-- NEOFETCH START -->)(.*?)(<!-- NEOFETCH END -->)'
+    
+    if re.search(pattern, content, flags=re.DOTALL):
+        updated_content = re.sub(
+            pattern,
+            f"\\1\n{new_neofetch}\n\\3",
+            content,
+            flags=re.DOTALL
+        )
+        with open(readme_path, "w", encoding="utf-8", newline="\\n") as f:
+            f.write(updated_content)
+        print("Updated README.md with live neofetch stats.")
+    else:
+        print("Could not find NEOFETCH tags in README.md")
 
 def main() -> None:
     print("Fetching stats...")
@@ -439,8 +490,9 @@ def main() -> None:
     with open("streak.svg", "w", encoding="utf-8", newline="\n") as file:
         file.write(make_streak_svg(stats))
 
-    print("Done — cyberpunk SVGs generated ⚡")
+    update_readme(stats)
 
+    print("Done — cyberpunk SVGs generated ⚡")
 
 if __name__ == "__main__":
     main()
