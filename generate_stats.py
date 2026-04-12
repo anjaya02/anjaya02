@@ -228,7 +228,7 @@ def make_stats_svg(stats: dict, langs: list[dict]) -> str:
         return round((percent / 100) * bar_total_width)
 
     rows = ""
-    start_y = 68
+    start_y = 80
     for index, lang in enumerate(langs):
         y = start_y + index * 23
         width = bar_width(lang["pct"])
