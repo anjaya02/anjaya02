@@ -59,9 +59,9 @@ class AnjayaInduwara:
 \___)=(___/ wm    ~ win11
             term  ~ wt
  ┌────────┐ role  ~ dev@sltmobitel
- │🔋 grind│ task  ~ reputify.lk
- │⚡ ship │ cpu   ~ 52d streak
- │🎯 build│ mem   ~ coffee-fueled
+ │  grind │ task  ~ reputify.lk
+ │  ship  │ cpu   ~ 128d streak
+ │  build │ mem   ~ coffee-fueled
  └────────┘ gpu   ~ gpt4o+hf
 ```
 <!-- NEOFETCH END -->
@@ -159,44 +159,25 @@ class AnjayaInduwara:
 <br/><br/>
 </div>
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-<h3 align="center">🔮 Reputify</h3>
-<p align="center">
-  <a href="https://reputify.lk">
-    <img src="https://img.shields.io/badge/reputify.lk-21c55d?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Live"/>
-  </a>
-</p>
+<a href="https://reputify.lk">
+  <img src="https://img.shields.io/badge/Reputify-AI_Reputation_Management-21c55d?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Reputify"/>
+</a>
 
-```
-AI-powered reputation management
-SaaS for SMEs
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br/><br/>
 
-→ 8 platforms monitored
-  Google · FB · IG · TikTok
-  YouTube · LinkedIn · Reddit · X
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-0d1117?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HF-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Fly.io](https://img.shields.io/badge/Fly.io-0d1117?style=flat-square&logo=flydotio&logoColor=7C3AED)
 
-→ 90+ language NLP pipeline
-→ Real-time sentiment analysis
-→ Automated review response
+<sub>8 platforms · 90+ languages · Real-time NLP · Automated responses</sub>
 
-Stack:
-  FastAPI · Next.js · MongoDB
-  Redis · Apify · GPT-4o
-  HuggingFace Transformers
-
-Infra:
-  Fly.io (SG) · Vercel
-  MongoDB Atlas · Redis Cloud
-```
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -225,7 +206,9 @@ Infra:
 
 > *"The best way to predict the future is to build it."*
 
-<sub>🇱🇰 Colombo, Sri Lanka · <a href="https://github.com/anjaya02">anjaya02</a> · 2026</sub>
+<!-- FOOTER START -->
+<sub>Colombo, Sri Lanka · <a href="https://github.com/anjaya02">anjaya02</a> · 2026</sub>
+<!-- FOOTER END -->
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=21c55d&height=80&section=footer&fontSize=0" width="100%"/>
 

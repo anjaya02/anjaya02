@@ -449,9 +449,9 @@ def update_readme(stats: dict) -> None:
 \\___)=(___/ wm    ~ win11
             term  ~ wt
  ┌────────┐ role  ~ dev@sltmobitel
- │🔋 grind│ task  ~ reputify.lk
- │⚡ ship │ cpu   ~ {stats['current_streak']}d streak
- │🎯 build│ mem   ~ coffee-fueled
+ │  grind │ task  ~ reputify.lk
+ │  ship  │ cpu   ~ {stats['current_streak']}d streak
+ │  build │ mem   ~ coffee-fueled
  └────────┘ gpu   ~ gpt4o+hf
 ```"""
 
@@ -464,6 +464,17 @@ def update_readme(stats: dict) -> None:
             content,
             flags=re.DOTALL
         )
+        
+        # Also update footer year
+        footer_pattern = r'(<!-- FOOTER START -->)(.*?)(<!-- FOOTER END -->)'
+        footer_text = f'\n<sub>Colombo, Sri Lanka · <a href="https://github.com/anjaya02">anjaya02</a> · {current_year}</sub>\n'
+        updated_content = re.sub(
+            footer_pattern,
+            f"\\1{footer_text}\\3",
+            updated_content,
+            flags=re.DOTALL
+        )
+        
         with open(readme_path, "w", encoding="utf-8") as f:
             f.write(updated_content)
         print("Updated README.md with live neofetch stats.")
