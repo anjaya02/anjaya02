@@ -439,21 +439,20 @@ def update_readme(stats: dict) -> None:
     now = datetime.now()
     age = now.year - birth_date.year - ((now.month, now.day) < (birth_date.month, birth_date.day))
     
-    new_neofetch = f"""```text
-        .--.          anjaya02@github
-       |o_o |         ──────────────────
-       |:_/ |         OS: Engineer v{current_year}.{current_month}
-      //   \ \        Uptime: {age} years (since 2002)
-     (|     | )       Shell: Python | TypeScript | Java
-    /'\_   _/`\       Resolution: 1920x1080 @ 60fps
-    \___)=(___/       DE: VS Code + GitHub Copilot
-                      WM: Windows 11
-  ┌─────────────┐     Terminal: Windows Terminal
-  │ 🔋 caffeine │     Role: Software Developer @ SLTMobitel
-  │ ⚡ shipping  │     Task: Building Reputify
-  │ 🎯 building │     CPU: {stats['current_streak']}-day focus streak
-  └─────────────┘     Memory: Coffee-fueled, never enough RAM
-                      GPU: GPT-4o + HuggingFace
+    new_neofetch = f"""```
+  .--.      anjaya02@github
+ |o_o |     ────────────────
+ |:_/ |     os    ~ dev v{current_year}.{current_month}
+ //  \\ \\    up    ~ {age}yrs
+(|    | )   sh    ~ py/ts/java
+/'\\_  _/`\\  de    ~ vscode
+\\___)=(___/ wm    ~ win11
+            term  ~ wt
+ ┌────────┐ role  ~ dev@sltmobitel
+ │🔋 grind│ task  ~ reputify.lk
+ │⚡ ship │ cpu   ~ {stats['current_streak']}d streak
+ │🎯 build│ mem   ~ coffee-fueled
+ └────────┘ gpu   ~ gpt4o+hf
 ```"""
 
     pattern = r'(<!-- NEOFETCH START -->)(.*?)(<!-- NEOFETCH END -->)'

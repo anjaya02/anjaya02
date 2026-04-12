@@ -49,21 +49,20 @@ class AnjayaInduwara:
 ### `> neofetch`
 
 <!-- NEOFETCH START -->
-```text
-        .--.          anjaya02@github
-       |o_o |         ──────────────────
-       |:_/ |         OS: Engineer v2026.4
-      //   \ \        Uptime: 24 years (since 2002)
-     (|     | )       Shell: Python | TypeScript | Java
-    /'\_   _/`\       Resolution: 1920x1080 @ 60fps
-    \___)=(___/       DE: VS Code + GitHub Copilot
-                      WM: Windows 11
-  ┌─────────────┐     Terminal: Windows Terminal
-  │ 🔋 caffeine │     Role: Software Developer @ SLTMobitel
-  │ ⚡ shipping  │     Task: Building Reputify
-  │ 🎯 building │     CPU: 52-day focus streak
-  └─────────────┘     Memory: Coffee-fueled, never enough RAM
-                      GPU: GPT-4o + HuggingFace
+```
+  .--.      anjaya02@github
+ |o_o |     ────────────────
+ |:_/ |     os    ~ dev v2026.4
+ //  \ \    up    ~ 24yrs
+(|    | )   sh    ~ py/ts/java
+/'\_  _/`\  de    ~ vscode
+\___)=(___/ wm    ~ win11
+            term  ~ wt
+ ┌────────┐ role  ~ dev@sltmobitel
+ │🔋 grind│ task  ~ reputify.lk
+ │⚡ ship │ cpu   ~ 128d streak
+ │🎯 build│ mem   ~ coffee-fueled
+ └────────┘ gpu   ~ gpt4o+hf
 ```
 <!-- NEOFETCH END -->
 
