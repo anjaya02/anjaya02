@@ -196,7 +196,7 @@ class AnjayaInduwara:
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
 <h3 align="center">🔮 Reputify</h3>
 <p align="center">
@@ -229,39 +229,7 @@ Infra:
 ```
 
 </td>
-<td width="50%">
 
-<h3 align="center">🔬 DynaCoverage</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/FYP-IN_PROGRESS-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Status"/>
-</p>
-
-```
-Dynamic weighted Voronoi coverage
-from first principles
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-→ Fortune's Algorithm
-  implemented from scratch
-  (zero geometry libraries)
-
-→ Computational geometry
-  primitives in pure Python
-
-→ Real-time coverage
-  optimization system
-
-Target:
-  IIT Final Year Project
-  90+ score · Best FYP Award
-
-Phase 1: Apr 2026
-  foundational primitives
-Phase 2: geometry engine
-Phase 3: visualization layer
-```
-
-</td>
 </tr>
 </table>
 
