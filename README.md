@@ -61,10 +61,10 @@ class AnjayaInduwara:
         .--.          anjaya@github
        |o_o |         ──────────────────
        |:_/ |         OS: Engineer v2.0.26
-      //   \ \        Uptime: since 2003
+      //   \ \        Uptime: since 2002
      (|     | )       Shell: python/ts/java
     /'\_   _/`\       Resolution: 1080p focus
-    \___)=(___/       DE: VSCode + Neovim
+    \___)=(___/       DE: VSCode
                       WM: Arch BTW
   ┌─────────────┐     Terminal: alacritty
   │ 🔋 caffeine │     CPU: 128-day streak
