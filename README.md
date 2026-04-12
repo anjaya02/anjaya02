@@ -61,7 +61,7 @@ class AnjayaInduwara:
   ┌─────────────┐     Terminal: Windows Terminal
   │ 🔋 caffeine │     Role: Software Developer @ SLTMobitel
   │ ⚡ shipping  │     Task: Building Reputify
-  │ 🎯 building │     CPU: 128-day focus streak
+  │ 🎯 building │     CPU: 52-day focus streak
   └─────────────┘     Memory: Coffee-fueled, never enough RAM
                       GPU: GPT-4o + HuggingFace
 ```
