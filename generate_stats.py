@@ -465,7 +465,7 @@ def update_readme(stats: dict) -> None:
             content,
             flags=re.DOTALL
         )
-        with open(readme_path, "w", encoding="utf-8", newline="\\n") as f:
+        with open(readme_path, "w", encoding="utf-8") as f:
             f.write(updated_content)
         print("Updated README.md with live neofetch stats.")
     else:
