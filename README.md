@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=21C55D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=45&lines=%24+CEO+%26+Co-founder+%40+Reputify+%7C+Dev+%40+SLT+Mobitel;%24+Building+AI+products+for+SMEs+across+Sri+Lanka+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=21C55D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=45&lines=%24+CEO+%26+Co-founder+%40+Reputify+%7C+Dev+%40+SLT+Mobitel;%24+Building+AI-powered+products+for+businesses+worldwide+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-%F0%9F%9F%A2_ONLINE-0d1117?style=flat-square&labelColor=0d1117"/>
@@ -75,7 +75,7 @@ class AnjayaInduwara:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=300&height=30&lines=%E2%9A%A1+TECH+ARSENAL" alt="Tech Arsenal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=300&height=30&lines=%5B+%E2%9A%A1+%5D+TECH+ARSENAL" alt="Tech Arsenal"/>
 <br/><br/>
 </div>
 
@@ -123,7 +123,7 @@ class AnjayaInduwara:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=300&height=30&lines=%F0%9F%93%8A+SYSTEM+METRICS" alt="System Metrics"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=350&height=30&lines=%5B+%23+%5D+SYSTEM+METRICS" alt="System Metrics"/>
 <br/><br/>
 </div>
 
@@ -138,7 +138,7 @@ class AnjayaInduwara:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=350&height=30&lines=%F0%9F%90%8D+CONTRIBUTION+GRAPH" alt="Contribution Graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=400&height=30&lines=%5B+%3E+%5D+CONTRIBUTION+GRAPH" alt="Contribution Graph"/>
 <br/><br/>
 </div>
 
@@ -155,7 +155,7 @@ class AnjayaInduwara:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=350&height=30&lines=%F0%9F%8F%97%EF%B8%8F+DEPLOYED+SYSTEMS" alt="Deployed Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=350&height=30&lines=%5B+%24+%5D+DEPLOYED+SYSTEMS" alt="Deployed Systems"/>
 <br/><br/>
 </div>
 
@@ -203,7 +203,7 @@ Infra:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=350&height=30&lines=%F0%9F%8C%90+NETWORK+INTERFACES" alt="Network Interfaces"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=21C55D&center=true&vCenter=true&repeat=false&width=400&height=30&lines=%5B+%40+%5D+NETWORK+INTERFACES" alt="Network Interfaces"/>
 <br/><br/>
 </div>
 

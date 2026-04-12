@@ -191,7 +191,7 @@
     <circle cx="0" cy="0" r="3" fill="#21c55d" class="pulse-dot"/>
     <text x="8" y="4" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#21c55d" opacity="0.6">ONLINE</text>
     <text x="65" y="4" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#8b949e" opacity="0.4">|</text>
-    <text x="75" y="4" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#8b949e" opacity="0.4">v2.0.26</text>
+    <text x="75" y="4" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#8b949e" opacity="0.4">v2026.4</text>
   </g>
 
   <!-- Bottom decorative line -->

@@ -470,6 +470,28 @@ def update_readme(stats: dict) -> None:
     else:
         print("Could not find NEOFETCH tags in README.md")
 
+def update_header() -> None:
+    import re
+    from datetime import datetime
+    
+    header_path = "header.svg"
+    try:
+        with open(header_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except FileNotFoundError:
+        print(f"File {header_path} not found.")
+        return
+    
+    current_year = datetime.now().year
+    current_month = datetime.now().month
+    version = f"v{current_year}.{current_month}"
+    
+    updated = re.sub(r'v\d{4}\.\d{1,2}', version, content)
+    
+    with open(header_path, "w", encoding="utf-8") as f:
+        f.write(updated)
+    print(f"Updated header.svg version to {version}")
+
 def main() -> None:
     print("Fetching stats...")
     stats = fetch_stats()
@@ -490,6 +512,7 @@ def main() -> None:
         file.write(make_streak_svg(stats))
 
     update_readme(stats)
+    update_header()
 
     print("Done — cyberpunk SVGs generated ⚡")
 
