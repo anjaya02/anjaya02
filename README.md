@@ -223,9 +223,10 @@ Infra:
 
 <div align="center">
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=2000&color=3d444d&center=true&vCenter=true&repeat=false&width=500&height=20&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="Quote"/>
-<br/>
-<sub>Based in Colombo, Sri Lanka 🇱🇰 · github.com/anjaya02 · 2026</sub>
+
+> *"The best way to predict the future is to build it."*
+
+<sub>🇱🇰 Colombo, Sri Lanka · <a href="https://github.com/anjaya02">anjaya02</a> · 2026</sub>
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=21c55d&height=80&section=footer&fontSize=0" width="100%"/>
 
