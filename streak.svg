@@ -50,7 +50,7 @@
   <rect x="165" y="10" width="165" height="120" fill="url(#centerGrad)"/>
 
   <text x="82" y="24" text-anchor="middle" class="section-title">TOTAL CONTRIBUTIONS</text>
-  <text x="82" y="76" text-anchor="middle" class="big-num">2619</text>
+  <text x="82" y="76" text-anchor="middle" class="big-num">2620</text>
   <text x="82" y="90" text-anchor="middle" class="label">Jan 1 – Dec 31, 2026</text>
 
   <line x1="165" y1="18" x2="165" y2="125" stroke="#21262d" stroke-width="1"/>

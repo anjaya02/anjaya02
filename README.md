@@ -60,7 +60,7 @@ class AnjayaInduwara:
             term  ~ wt
  ┌────────┐ role  ~ dev@sltmobitel
  │  grind │ task  ~ reputify.lk
- │  ship  │ cpu   ~ 128d streak
+ │  ship  │ cpu   ~ 52d streak
  │  build │ mem   ~ coffee-fueled
  └────────┘ gpu   ~ gpt4o+hf
 ```
