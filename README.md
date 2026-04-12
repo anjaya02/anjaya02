@@ -1,87 +1,116 @@
+<div align="center">
 
+```
+╔═══════════════════════════════════════════════════════╗
+║   Hi there, I'm Anjaya Induwara 👋                   ║
+║   Full-Stack Developer · AI Builder · Sri Lanka 🇱🇰   ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-<h1 align="center">Hi 👋, I'm Anjaya Induwara</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=21C55D&center=true&vCenter=true&width=500&lines=CEO+%26+Co-founder+%40+Reputify;Full-Stack+Dev+%40+SLT+Mobitel;Building+with+AI+%7C+FastAPI+%7C+Next.js;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaya02&label=Profile%20views&color=0e75b6&style=flat" alt="anjaya02" /> </p>
+<img src="https://komarev.com/ghpvc/?username=anjaya02&label=Profile+views&color=21c55d&style=flat" alt="profile views" />
 
-- 🌱 I’m currently learning **Deep Learning**
+</div>
 
-- 📫 How to reach me **anjayainduwara@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anjaya02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anjaya02" height="30" width="40" /></a>
-<a href="https://www.facebook.com/anjaya.induwara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anjaya.induwara1" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anjaya_induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anjaya_induwara" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@anjaya02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@anjaya02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anjayainduwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anjayainduwara" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">🚀 Technologies & Tools</h3>
+- 💼 Software Developer at SLT Mobitel (IT Solutions Development)
+- 🎓 CS Undergraduate at IIT (Informatics Institute of Technology)
+- 🧠 Interests: AI systems, backend engineering, and computational geometry
+- 🚀 Building AI products for SMEs across Sri Lanka and beyond
+- 📫 anjayainduwara@gmail.com
 
-<!-- Frontend -->
-<h4>Frontend</h4>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
-</p>
+---
 
-<!-- Backend -->
-<h4>Backend</h4>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
-</p>
+## 📊 GitHub Stats
 
-<!-- Databases -->
-<h4>Databases</h4>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase"/>
-</p>
+<div align="center">
+  <img src="./stats.svg" alt="Anjaya's GitHub Stats" />
+  <br/><br/>
+  <img src="./streak.svg" alt="Anjaya's GitHub Streak" />
+</div>
 
-<!-- Tools -->
-<h4>Tools</h4>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" alt="Yarn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" alt="GitHub Actions"/>
-</p>
+---
 
-<!-- Cloud -->
-<h4>Cloud</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" alt="Heroku"/>
-</p>
+## 🛠️ Technologies & Tools
 
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaya02&show_icons=true&locale=en&layout=compact" alt="anjaya02" /></p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaya02&show_icons=true&locale=en" alt="anjaya02" /></p>
+### Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaya02&" alt="anjaya02" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+### Databases & Cache
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### AI / ML
+
+![GPT-4](https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-7C3AED?style=flat&logo=flydotio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔷 [Reputify](https://reputify.lk)
+
+> AI-powered online reputation management SaaS for Sri Lankan SMEs
+
+- Monitors **8 platforms** (Google, Facebook, Instagram, TikTok, YouTube, LinkedIn, Reddit, X)
+- Multilingual NLP pipeline: **90+ languages** sentiment analysis
+- Stack: FastAPI · Next.js · MongoDB · Redis · Apify · GPT-4o · HuggingFace
+- Deployed on Fly.io (Singapore) · Vercel · MongoDB Atlas · Redis Cloud
+
+### 🔷 DynaCoverage _(FYP — In Progress)_
+
+> Real-time dynamic weighted Voronoi coverage system from computational geometry first principles
+
+- Implementing Fortune's Algorithm from scratch (no geometry libraries)
+- Phase 1: April 2026 — foundational geometry primitives in Python
+- Target: IIT Final Year Project · 90+ score · Best FYP Award
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjaya02)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anjaya02)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@anjaya02)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anjaya_induwara)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/anjayainduwara)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anjayainduwara@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Based in Colombo, Sri Lanka 🇱🇰.</sub>
+</div>
