@@ -172,7 +172,7 @@ class AnjayaInduwara:
 ![HuggingFace](https://img.shields.io/badge/HF-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![Fly.io](https://img.shields.io/badge/Fly.io-0d1117?style=flat-square&logo=flydotio&logoColor=7C3AED)
 
-<sub>8 platforms · 90+ languages · Real-time NLP · Automated responses</sub>
+<sub>9 platforms · 90+ languages · Real-time NLP · Automated responses</sub>
 
 </div>
 
