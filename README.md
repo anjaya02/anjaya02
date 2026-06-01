@@ -49,7 +49,7 @@ class AnjayaInduwara:
 ```
   .--.      anjaya02@github
  |o_o |     ────────────────
- |:_/ |     os    ~ dev v2026.5
+ |:_/ |     os    ~ dev v2026.6
  //  \ \    up    ~ 24yrs
 (|    | )   sh    ~ py/ts/java
 /'\_  _/`\  de    ~ vscode
@@ -57,7 +57,7 @@ class AnjayaInduwara:
             term  ~ wt
  ┌────────┐ role  ~ dev@sltmobitel
  │  grind │ task  ~ reputify.lk
- │  ship  │ cpu   ~ 0d streak
+ │  ship  │ cpu   ~ 2d streak
  │  build │ mem   ~ coffee-fueled
  └────────┘ gpu   ~ gpt4o+hf
 ```
