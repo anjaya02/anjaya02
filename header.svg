@@ -153,7 +153,9 @@
     <tspan fill="#8b949e">, </tspan>
     <tspan fill="#a5d6ff">"Backend Eng"</tspan>
     <tspan fill="#8b949e">, </tspan>
-    <tspan fill="#a5d6ff">"Comp Geometry"</tspan>
+    <tspan fill="#a5d6ff">"NAR"</tspan>
+    <tspan fill="#8b949e">, </tspan>
+    <tspan fill="#a5d6ff">"GNNs"</tspan>
     <tspan fill="#8b949e">],</tspan>
   </text>
   <text x="64" y="168" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12">

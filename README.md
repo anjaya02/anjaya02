@@ -35,8 +35,8 @@ class AnjayaInduwara:
         return [
             "AI-powered SaaS products",
             "Backend engineering at scale",
-            "Computational geometry research",
-            "Real-time NLP pipelines",
+            "Neural Algorithmic Reasoning (NAR)",
+            "Graph Neural Networks (GNNs)",
         ]
 ```
 
