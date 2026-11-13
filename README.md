@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=21C55D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=45&lines=%24+CEO+%26+Co-founder+%40+Reputify+%7C+Dev+%40+SLTMobitel;%24+Building+AI-powered+products+for+businesses+worldwide+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=21C55D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=45&lines=%24+Dev+%40+SLTMobitel+%7C+Reputify+team+project;%24+Building+AI-powered+products+for+businesses+worldwide+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/%E2%97%8F_ONLINE-21c55d?style=flat-square&labelColor=0d1117" alt="online"/>
 &nbsp;
@@ -27,7 +27,7 @@ class AnjayaInduwara:
     def __init__(self):
         self.role     = "Full-Stack Engineer"
         self.company  = "SLTMobitel"
-        self.startup  = "CEO @ Reputify"
+        self.project  = "Reputify (team project)"
         self.edu      = "CS @ IIT Sri Lanka"
         self.location = "Colombo, Sri Lanka 🇱🇰"
         
